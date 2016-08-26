@@ -1,0 +1,7 @@
+com\yq\entity\Customer.class
+com\yq\servlet\CheckCustomerServlet.class
+com\yq\dao\CustomerDao.class
+com\yq\entity\IDEntity.class
+com\yq\jdbc\ConnectionFactory.class
+com\yq\dao\impl\CustomerDaoImpl.class
+com\yq\servlet\CheckServlet.class
